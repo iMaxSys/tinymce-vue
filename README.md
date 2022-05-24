@@ -33,7 +33,8 @@ npm run build
 ```sh
 npm run lint
 ```
-npm init vue@latest
+
+```npm init vue@latest
 vue add style-resources-loader
 npm install node-sass sass-loader sass -D
 npm install @tinymce/tinymce-vue -S
