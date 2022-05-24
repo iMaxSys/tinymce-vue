@@ -33,13 +33,13 @@ npm run build
 ```sh
 npm run lint
 ```
-```npm init vue@latest
-```vue add style-resources-loader
-```npm install node-sass sass-loader sass -D
-```npm install @tinymce/tinymce-vue -S
-```npm install tinymce -S
-```语言包、icon、skin拷贝到public/tinymce
-```init:{
+npm init vue@latest
+vue add style-resources-loader
+npm install node-sass sass-loader sass -D
+npm install @tinymce/tinymce-vue -S
+npm install tinymce -S
+语言包、icon、skin拷贝到public/tinymce
+init:{
   base_url: '/tinymce'
 }
 
